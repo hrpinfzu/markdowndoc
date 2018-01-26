@@ -8,15 +8,3 @@
 ### 售后
 
 
-![测试腾讯COS作为图床][1]
-的
-github图床
-测试流程图插入
-![流程图订单][2]
-
-
-订单
-
-
-  [1]: https://hrpmarkdown-1251497301.cos.ap-chengdu.myqcloud.com/xsjmd/1516971223723.jpg
-  [2]: https://hrpmarkdown-1251497301.cos.ap-chengdu.myqcloud.com/xsjmd/Untitled%20Diagram.png
