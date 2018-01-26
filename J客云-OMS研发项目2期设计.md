@@ -1,0 +1,22 @@
+# J客云-OMS研发项目2期设计
+## 概述
+在1期完成简易订单处理流程基础上，进一步完善销售订单从产生（主要针对上线平台订单）到交货到款，以及后续可能产生售后问题处理。
+同时开始搭建客户管理体系，重点尝试营销体系的搭建，覆盖完整的销售流程。
+## 总体设计
+## 功能设计
+### 订单处理
+### 售后
+
+
+![测试腾讯COS作为图床][1]
+的
+github图床
+测试流程图插入
+![流程图订单][2]
+
+
+订单
+
+
+  [1]: https://hrpmarkdown-1251497301.cos.ap-chengdu.myqcloud.com/xsjmd/1516971223723.jpg
+  [2]: https://hrpmarkdown-1251497301.cos.ap-chengdu.myqcloud.com/xsjmd/Untitled%20Diagram.png
