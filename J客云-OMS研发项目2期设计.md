@@ -11,4 +11,9 @@
 ![test][1]
 
 
+  ![图片2][2]
+
+图片居中的方法研究
+
   [1]: https://hrpmarkdown-1251497301.cos.ap-chengdu.myqcloud.com/xsjmd/1516973121538.jpg
+  [2]: ./images/1516973188713.jpg
